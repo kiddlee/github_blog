@@ -7,3 +7,6 @@ tags: architecture
 ---
 
 ## 初始架构
+
+### 架构图
+![algo_arch_1](images/algo_arch_1.jpg)
